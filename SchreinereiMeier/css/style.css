@@ -1,0 +1,40 @@
+body{
+  font-family: Arial, sans-serif;
+  color: #35291f;
+  background-color: #faf5ed;
+}
+
+header {
+  background-color: #e8d7bf;
+  border-bottom: 3px solid #795638;
+}
+
+header h1 {
+  font-family: Georgia, serif;
+  font-size: 2.5rem;
+  color: #62432c;
+}
+
+nav {
+  font-size: 1.1rem;
+}
+
+nav a {
+  color: #513822;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+body > h1{
+  font-family: Georgia, serif;
+  font-size: 1.8rem;
+  color: #62432c;
+}
+
+
+h2{
+  font-family: Georgia, serif;
+  font-size: 1.4rem;
+  color: #62432c;
+  border-bottom: 1px solid #c9b398;
+}
